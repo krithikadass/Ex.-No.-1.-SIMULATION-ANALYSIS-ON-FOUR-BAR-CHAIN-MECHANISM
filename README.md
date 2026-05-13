@@ -54,7 +54,6 @@
 
 ## Output:
 
-![empd ex 1](https://github.com/suryamalarv/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/145742486/30574ffd-eab4-4ea6-8530-bbb120659907)
 
 ### Name: Krithika Lakshmi M
 ### Register Number: 212224230134
